@@ -3,7 +3,7 @@
 All your DSP questions explained in jupyter notebooks
 
 <p align="center">
-  <img src="img/DSP_fundamentals_max.png" alt="Image description" style="width: 500px; height: auto;">
+  <img src="docs/img/DSP_fundamentals_max.png" alt="Image description" style="width: 500px; height: auto;">
 </p>
 
 ---
