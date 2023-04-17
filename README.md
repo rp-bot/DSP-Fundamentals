@@ -1,2 +1,17 @@
 # DSP-Fundamentals
+
 All your DSP questions explained in jupyter notebooks
+
+<p align="center">
+  <img src="img/DSP_fundamentals_max.png" alt="Image description" style="width: 500px; height: auto;">
+</p>
+
+---
+
+#### Chapter 1
+
+Getting to know digital audio
+
+-   [Create Sine Waves](Chapter1/SineWave.ipynb)
+
+---
