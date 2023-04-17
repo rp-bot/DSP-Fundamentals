@@ -12,6 +12,11 @@ All your DSP questions explained in jupyter notebooks
 
 Getting to know digital audio
 
--   [Create Sine Waves](Chapter1/SineWave.ipynb)
+-   [Create Sine Waves](Chapter1_(DigitalAudio)/SineWave.ipynb)
 
+#### Chapter 2
+
+Using math and some programming tricks to shape an audio signal
+
+-   [Wave Shaping](Chapter2_(WaveShaping)/)
 ---
